@@ -5,4 +5,5 @@
 
 Запуск:
 git clone https://github.com/IKovalevsky/part1/
+
 python3 main.py
