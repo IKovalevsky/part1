@@ -4,6 +4,6 @@
 
 
 Запуск:
-git clone https://github.com/IKovalevsky/part1/
+git clone https://github.com/IKovalevsky/part1.git
 
 python3 main.py
